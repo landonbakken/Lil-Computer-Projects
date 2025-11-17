@@ -369,7 +369,7 @@ BALL_COL_I 	.FILL x0010
 K_A		.FILL xFF9F				;x0061		Inverted key codes
 K_D		.FILL xFF9C				;x0064
 
-DELAY	.FILL x1500			;the delay in the program so it doesnt go so fast
+DELAY	.FILL x3500			;the delay in the program so it doesnt go so fast
 
 MAP_WIDTH	.FILL x0059
 MAP_HEIGHT	.FILL x007C
